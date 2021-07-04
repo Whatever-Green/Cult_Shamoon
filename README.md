@@ -1,5 +1,5 @@
 # Cult Shamoon
-[The women himself](boy.png)
+![](boy.png)
 A cult were we put your money in front of everything
 
 This website uses a template from W3School but edited to be tailor made. 
