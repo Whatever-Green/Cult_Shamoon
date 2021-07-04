@@ -11,4 +11,4 @@ URL: [http://shamooncult.ml](http://shamooncult.ml)
 - [x] Parallax effect added
 - [x] CNAME and A records added
 
-[https://whatevergreen.ml] (Whatever Green)
+[Whatever Green](https://whatevergreen.ml)
